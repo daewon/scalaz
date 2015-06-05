@@ -1,4 +1,4 @@
-sisp
+scalaz-test
 ====
 
-simple lisp implementation in scala
+example test of scalaz-lib
